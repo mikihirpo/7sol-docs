@@ -1,0 +1,1 @@
+import{l as s,b as t,c as o,D as c}from"./BKNLOXhG.js";const r={},n={class:"leading-7 [&:not(:first-child)]:mt-6"};function a(e,l){return t(),o("p",n,[c(e.$slots,"default")])}const d=s(r,[["render",a]]);export{d as default};

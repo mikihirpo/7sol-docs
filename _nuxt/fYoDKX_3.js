@@ -1,0 +1,1 @@
+import{l as r,b as o,c as s,D as c}from"./BKNLOXhG.js";const t={},a={class:"grid md:grid-cols-2 gap-4 group"};function n(e,d){return o(),s("div",a,[c(e.$slots,"default")])}const _=r(t,[["render",n]]);export{_ as default};

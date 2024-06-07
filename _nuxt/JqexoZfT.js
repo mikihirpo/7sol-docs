@@ -1,0 +1,1 @@
+import{l as t,b as s,c as o,D as r}from"./BKNLOXhG.js";const c={},l={class:"[&>h3]:step [&>li]:step ml-4 border-l pl-8 [counter-reset:step] [&:not(:first-child)]:mt-6 [&:not(:last-child)]:mb-12"};function n(e,a){return s(),o("div",l,[r(e.$slots,"default")])}const i=t(c,[["render",n]]);export{i as default};
