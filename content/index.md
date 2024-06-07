@@ -6,23 +6,23 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v0.1.3'
+  title: 'Alpha Tested'
   icon: 'noto:party-popper'
-  to: /getting-started
+  to: /job-posting
 actions:
   - name: Get Started
-    to: /getting-started
+    to: /job-posting
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: #
     leftIcon: 'lucide:github'
 ---
 
 #title
-7JOBS DOCUMENTATION<br>Docs Template.
+7JOBS DOCUMENTATION
 
 
 
 <div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/writing/components" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
+  <iframe src="" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
 </div>
