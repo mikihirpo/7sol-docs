@@ -1,0 +1,1 @@
+import{l as s,b as o,c as t,e as a,D as c}from"./JvTnVyVk.js";const l={},r={class:"my-6 w-full overflow-y-auto"},n={class:"w-full"};function _(e,f){return o(),t("div",r,[a("table",n,[c(e.$slots,"default")])])}const u=s(l,[["render",_]]);export{u as default};

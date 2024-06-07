@@ -1,1 +1,0 @@
-import{l as s,b as t,c,D as o}from"./BKNLOXhG.js";const l={},r={class:"my-6 ml-6 list-disc [&>li]:mt-2"};function n(e,a){return t(),c("ul",r,[o(e.$slots,"default")])}const d=s(l,[["render",n]]);export{d as default};

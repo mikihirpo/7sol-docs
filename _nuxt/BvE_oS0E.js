@@ -1,1 +1,0 @@
-import{l as r,b as t,c as s,D as o}from"./BKNLOXhG.js";const c={},n={class:"m-0 border-t p-0 even:bg-muted/50"};function a(e,l){return t(),s("tr",n,[o(e.$slots,"default")])}const d=r(c,[["render",a]]);export{d as default};
